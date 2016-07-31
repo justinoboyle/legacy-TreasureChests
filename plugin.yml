@@ -1,0 +1,12 @@
+name: GTTreasureCrates
+version: 2.0
+main: com.arrayprolc.gametech.treasurechests.main.TreasureChestCore
+commands:
+    createresult:
+    createresultlist:
+    createchest:
+    createvoterkey:
+    givekey:
+    reloadchests:
+    givereward:
+    requirevalidation: 
